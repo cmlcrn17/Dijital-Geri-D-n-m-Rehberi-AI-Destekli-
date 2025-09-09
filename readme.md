@@ -67,4 +67,6 @@ Ekstra olarak, harita entegrasyonu ile en yakın geri dönüşüm noktaları da 
 ---
 
 
-![Geri Dönüşüm İkonu]([[https://cdn-icons-png.flaticon.com/512/126/126122.png](https://github.com/cmlcrn17/Dijital-Geri-D-n-m-Rehberi-AI-Destekli-/blob/main/Screenshot%202025-09-09%20at%2010.01.31.png](https://github.com/cmlcrn17/Dijital-Geri-D-n-m-Rehberi-AI-Destekli-/blob/main/Screenshot%202025-09-09%20at%2010.01.31.png)))
+![Image1](https://github.com/cmlcrn17/DijitalGeriDonusum/blob/main/image1.png)
+![Image2](https://github.com/cmlcrn17/DijitalGeriDonusum/blob/main/image2.png)
+
